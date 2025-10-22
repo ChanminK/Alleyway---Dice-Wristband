@@ -2,9 +2,8 @@ Item,Description,Quantity,Price,Link
 Arduino Nano V3.0,Main 5V microcontroller board (ATmega328P/CH340G),2,9.99,https://www.amazon.com/gp/product/B0F1FQMNXM/ref=ox_sc_act_image_4?smid=A3EUM5QJ0XFZ3D&th=1
 MPU-6050 (GY-521),6-axis accelerometer and gyroscope module for motion detection,1,6.99,https://www.amazon.com/gp/product/B01DK83ZYQ/ref=ox_sc_act_image_8?smid=A30QSGOJR8LMXA&th=1
 MAX7219 8x8 LED Matrix,LED display module used to show dice faces and animations,2,6.99,https://www.amazon.com/gp/product/B07VM6HXN5/ref=ox_sc_act_image_3?smid=A3S807LE0L63AP&th=1
-Active Buzzer,Provides sound feedback when the dice roll completes,1,1.60,https://www.amazon.com/gp/product/B09V5JNZJX/ref=ox_sc_act_image_2?smid=A3KAKSP1F9N2ZH&psc=1
 3.7V 1000mAh LiPo Battery,Rechargeable lithium polymer battery for portable power,1,7.99,https://www.amazon.com/gp/product/B07BTWK13N/ref=ox_sc_act_image_7?smid=A132D7PL1YID8X&th=1
 TP4057 USB-C Charging Module,1-cell Li-ion/LiPo charging board with built-in protection,6,6.99,https://www.amazon.com/gp/product/B0CZNZ48K3/ref=ox_sc_act_image_1?smid=A3S807LE0L63AP&th=1
 MT3608 Boost Converter,Steps up 3.7V from LiPo battery to 5V for Nano and LED matrix,5,5.99,https://www.amazon.com/gp/product/B0C6KHYJJN/ref=ox_sc_act_image_5?smid=A2Z10KY0342329&th=1
 Wrist Brace Strap,Base for mounting and wearing the electronic components,2,5.99,https://www.amazon.com/gp/product/B0D5745S9J/ref=ox_sc_act_image_6?smid=A3P2WI9TEEGJNE&psc=1
-Total,,,62.52,
+Total,,,59.92,
